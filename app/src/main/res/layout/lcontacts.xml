@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!--联系人的页面-->
+    <!--android:text="string"要统一使用string格式调用-->
+
+    <Button
+        android:layout_width="134dp"
+        android:layout_height="115dp"
+        android:text="New Button"
+        android:id="@+id/button"
+        android:layout_gravity="left|bottom" />
+</FrameLayout>
